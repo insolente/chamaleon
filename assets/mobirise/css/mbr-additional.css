@@ -501,11 +501,20 @@ h6,
   text-align: right;
   color: #fff;
 }
+#msg-box5-9 H3 {
+  color: #ffffff;
+}
+#msg-box5-9 P {
+  color: #ffffff;
+}
 #header5-a .mbr-section-title {
   color: #ffffff;
 }
 #header5-a .mbr-section-lead {
   color: #ffffff;
+}
+#header5-a .mbr-section-lead B {
+  color: #f3c649;
 }
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {

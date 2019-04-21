@@ -262,7 +262,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#6fb9af",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -299,7 +299,15 @@
             "Tema"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-9"
+          "_anchor": "msg-box5-9",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "header1",
@@ -309,6 +317,9 @@
             },
             ".mbr-section-lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-lead B": {
+              "color": "#f3c649"
             }
           },
           "_params": {
@@ -663,14 +674,14 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#6fb9af",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "Contáctanos",
           "subtitle": "Llena el formulario o simplemente envíanos un correo a contacto@chamaleon.cl",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
             "action": "fe.essential@gmail.com",
             "alerts": {
