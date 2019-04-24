@@ -15,9 +15,9 @@
         "titleFont": "Roboto",
         "subtitleFont": "Roboto",
         "textFont": "Roboto",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -35,7 +35,7 @@
     "gdpr": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 21,
+    "uniqCompNum": 16,
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
   },
@@ -155,10 +155,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "title": "<span style=\"font-weight: normal;\">Somos Chamaleon</span>",
-          "text": "Un equipo&nbsp;<b>especialista</b>&nbsp;en la&nbsp;<b>provisión de servicios de tecnologías de la información</b>, dedicados  a proveer soporte, desarrollo y ejecución de&nbsp;plataformas informáticas,&nbsp;networking, cloud,&nbsp;hosting, realización e implementación de campañas publicitarias, e-commerce, capacitación, entre otros.\n<br><br>Con la orientación al cliente como principal componente de nuestro ADN, nos esforzamos por entregar&nbsp;<b>servicios innovadores y personalizados</b>&nbsp;que garanticen el máximo de <b>satisfacción.</b><br><b>\n</b><br>Contamos con un equipo de profesionales multidisciplinarios, que comprometidos con la entrega de un producto eficaz y eficiente, procuran adaptarse a los desafíos que cada uno de nuestros clientes nos proponen, cumpliendo con sus requerimientos tanto en tiempo como en calidad.<br><br><b><i>     \nQueremos trabajar para ustedes, ser su único proveedor y adaptar </i></b><br><b><i>el mundo a su medida.\n<br></i></b>\n<br>\n<br>",
+          "text": "Un equipo&nbsp;<b>especialista</b>&nbsp;en la&nbsp;<b>provisión de servicios de tecnologías de la información</b>, dedicados  a proveer soporte, desarrollo y ejecución de&nbsp;plataformas informáticas,&nbsp;networking, cloud,&nbsp;hosting, realización e implementación de campañas publicitarias, e-commerce, capacitación, entre otros.\n<br><br>Con la orientación al cliente como principal componente de nuestro ADN, nos esforzamos por entregar&nbsp;<b>servicios innovadores y personalizados</b>&nbsp;que garanticen el máximo de <b>satisfacción.</b><br><b>\n</b><br>Contamos con un equipo de profesionales <b>multidisciplinarios</b>, que comprometidos con la entrega de un producto eficaz y eficiente, procuran adaptarse a los desafíos que cada uno de nuestros clientes nos proponen, cumpliendo con sus requerimientos tanto en tiempo como en calidad.<br><br><b><i>     \nQueremos trabajar para ustedes, ser su único proveedor y adaptar </i></b><b><i>el mundo a su medida.\n<br></i></b>\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Tema"
@@ -179,7 +179,9 @@
             },
             ".mbr-section-lead I": {
               "color": "#faaf40",
-              "font-size": "22px"
+              "font-size": "32px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         },
@@ -207,7 +209,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Propósito",
+          "title": "Nuestro Proposito",
           "caption": "<p>Queremos convertirnos en la primera alternativa de provisión de servicios especializados de tecnologías de la información, adaptando a la medida de nuestros clientes el funcionamiento y operación de todo tipo de plataformas informáticas a fin de entregarles las herramientas que les permitan potenciar y desarrollar sus negocios y proyectos.</p>",
           "_tags": [
             "Tema"
@@ -241,7 +243,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "ADN",
+          "title": "Nuestro ADN",
           "caption": "<p>Otorgar la&nbsp;máxima satisfacción a nuestros clientes, a través de soluciones innovadoras, personalizadas y de alta calidad en el campo de bases de datos relacionales, servicios cloud, virtualización, seguridad, inteligencia de negocios, desarrollo de aplicaciones, capacitación y provisión de soluciones de hardware y software de infraestructura TI.\r</p>",
           "_tags": [
             "Tema"
@@ -293,7 +295,7 @@
             }
           },
           "title": "Desafíos",
-          "text": "Cada uno de nuestros clientes presenta sus propios requerimientos; muy diversos ente sí, no obstante, la necesidad de expansión, rentabilizar la inversión, bajar costos y ser más productivos a fin de adaptarse continuamente a los cambios de los consumidores y del mercado es un factor común, y la herramienta que se requiere, para dar solución a dichas necesidades y desafíos, siempre implica una transformación digital.\n<br>Chamaleon Consulting Group, te acompaña en el proceso de adaptación y te proporciona una solución innovadora y personalizada.<br><br><b>\nTu eliges entrar o quedarte fuera; si eliges entrar no lo hagas solo, selecciona a tu partner estratégico para liderar este importante cambio.</b><br>\n<br>",
+          "text": "Cada uno de nuestros clientes presenta sus propios requerimientos; muy diversos ente sí, no obstante, la necesidad de expansión, rentabilizar la inversión, bajar costos y ser más productivos a fin de adaptarse continuamente a los cambios de los consumidores y del mercado es un factor común, y la herramienta que se requiere, para dar solución a dichas necesidades y desafíos, siempre implica una <b>transformación digital.\n</b><br><b>Chamaleon Consulting Group</b>, te acompaña en el proceso de adaptación y te proporciona una solución innovadora y personalizada.<br><br><b>\nTu eliges entrar o quedarte fuera; si eliges entrar no lo hagas solo, selecciona a tu partner estratégico para liderar este importante cambio.</b><br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Tema"
@@ -329,7 +331,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x974.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1441.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -354,6 +356,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -375,8 +380,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Porque",
-          "text": "<p>No queremos ser uno más en tu lista de proveedores; queremos ser los únicos, formar una tribu y adaptar el mundo a su medida.\r</p>",
+          "title": "Por qué Nosotros",
+          "text": "<p><b>No queremos ser uno más en tu lista de proveedores; queremos ser los únicos, formar una tribu y adaptar el mundo a su medida.\n</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Tema"
@@ -409,34 +414,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-5-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cama-600x316.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x355.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media5": {

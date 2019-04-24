@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
 
 
 
@@ -52,12 +54,6 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Roboto', sans-serif;
-}
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -418,6 +414,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #6fb9af;
 }
+.scrollToTop_wraper {
+  display: none;
+}
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -490,7 +489,8 @@ h6,
 }
 #header1-4 .mbr-section-lead I {
   color: #faaf40;
-  font-size: 22px;
+  font-size: 32px;
+  font-family: 'Slabo 27px', serif;
 }
 #content5-6 .mbr-section-title,
 #content5-6 p {
@@ -519,6 +519,9 @@ h6,
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
   color: #fff;
+}
+#msg-box8-g .lead P {
+  font-size: 24px;
 }
 #features3-f P {
   color: #ffffff;
